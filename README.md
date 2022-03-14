@@ -5,7 +5,7 @@ This investigation aims to analyze the dataset and then communicate the findings
 This project focuses on the question of whether or not patients show up for their appointment.
 
 ## Author
-[Mahmoud Abou Khatwa](https://github.com/MKhatwa)- sole author for this program.
+[Mahmoud Abou Khatwa](https://github.com/MKhatwa)- sole author.
 
 ## Acknowledgements
 - [The Future of Work is Digital Initiative](https://egfwd.com/)- The egyptian FWD initiative for their opportunity that equiped me with the neccassery tools to make this project possible.
